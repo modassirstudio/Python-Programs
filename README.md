@@ -1,36 +1,27 @@
-\# Python Learning
+# Python Programs
 
+A collection of my Python learning, including practice programs, coding questions, mini projects, and experiments.
 
+## Contents
 
-My Python learning journey. From basics to AI tools.
+* Python Basics
+* Practice Questions
+* Problem Solving
+* Mini Projects
+* Scripts and Experiments
 
+## Run a Program
 
+```bash id="w9h2mk"
+python filename.py
+```
 
-\## Progress
+or
 
+```bash id="k8p4dn"
+py filename.py
+```
 
+## Purpose
 
-| Day | Topic | File |
-
-|:--|:--|:--|
-
-| Day 1 | Hello World | - |
-
-| Day 2 | Variables \& Data Types | - |
-
-| Day 3 | Input, Output, f-Strings | - |
-
-| Day 4 | Operators | exercises/operators.py |
-
-
-
-\## Folders
-
-\- `basics/` — Python fundamentals
-
-\- `exercises/` — Daily practice files
-
-\- `projects/` — Mini projects
-
-\- `ai-tools/` — AI-assisted coding
-
+This repository is used to practice Python, build projects, improve problem-solving skills, and track my learning progress.

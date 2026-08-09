@@ -2,14 +2,6 @@
 
 A collection of my Python learning, including practice programs, coding questions, mini projects, and experiments.
 
-## Contents
-
-* Python Basics
-* Practice Questions
-* Problem Solving
-* Mini Projects
-* Scripts and Experiments
-
 ## Run a Program
 
 ```bash id="w9h2mk"
